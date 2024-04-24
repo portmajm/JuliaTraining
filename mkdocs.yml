@@ -1,7 +1,7 @@
 site_name: 'Julia Practice Personal Website'
 site_description: 'Practice website as part of ESIIL pre-training'
 site_author: Julia Portmann
-site_url: https://github.io/portmajm/JuliaTraining
+site_url: https://portmajm.github.io/JuliaTraining
 
 # Repository
 repo_name: JuliaTraining
