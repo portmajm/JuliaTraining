@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'Julia Practice Personal Website'
+site_description: 'Practice website as part of ESIIL pre-training'
+site_author: Julia Portmann
+site_url: https://cu-esiil.github.io/JuliaTraining
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: JuliaTraining
+repo_url: https://github.com/portmajm/JuliaTraining
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
